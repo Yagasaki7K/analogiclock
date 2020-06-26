@@ -147,3 +147,9 @@ body.light .toggleClass {
 body.light .toggleClass:before {
     content: 'Dark Mode';
 }
+
+.copyright {
+    color: #6F6F70;
+    margin-top: 500px;
+}
+
